@@ -1,0 +1,1 @@
+Algoritma2 Lab dersinde 10 soruluk bir test ve testte kaç doğru cevap verildiğini sayan bir JFrame örneği ödevinin cevap kodları 
